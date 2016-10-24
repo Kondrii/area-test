@@ -4,6 +4,6 @@ using namespace std; int main( ) {
     float rad;
     cout<< "Enter the radius: ";
     cin>>rad;
-    cout<< "\nArea of the circle is: "<< PI * rad * rad;
+    cout<< "Area of the circle is: \n"<< PI * rad * rad;
     return 0;
 }  
